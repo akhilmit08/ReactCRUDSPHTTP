@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "deliverable-react-client-side-solution",
+    "id": "601b926d-6e27-4aa5-aeb5-a4a5584ea91b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/deliverable-react.sppkg"
+  }
+}
